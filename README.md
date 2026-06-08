@@ -89,7 +89,7 @@ Todas as decisões estão documentadas em células Markdown no notebook, com cri
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/yasmin-thayanne/yasmin-thayanne-state-of-data.git
+git clone https://github.com/thayanne204/Thayanne-Yasmin.analise.Ava3
 cd yasmin-thayanne-state-of-data
 ```
 
