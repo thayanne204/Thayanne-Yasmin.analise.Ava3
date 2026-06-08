@@ -42,8 +42,6 @@ yasmin-thayanne-state-of-data/
 | **Base final (após limpeza)** | 4.863 respondentes |
 | **Download** | [kaggle.com/datasets/datahackers/state-of-data-brazil-20242025](https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025) |
 
-> ⚠️ O arquivo CSV **não está incluído** no repositório. Faça o download diretamente pelo Kaggle e salve em `dados/` antes de rodar o notebook.
-
 ---
 
 ## 🧹 Principais Decisões de Limpeza
@@ -104,7 +102,7 @@ pip install pandas numpy matplotlib seaborn scipy
 
 4. **Abra o notebook**
 ```bash
-jupyter notebook notebook/yasmin-thayanne-analise.ipynb
+jupyter notebook notebook/Thayanne-Yasmin-analise.ipynb
 ```
 > O notebook também pode ser aberto diretamente no [Google Colab](https://colab.research.google.com).
 
