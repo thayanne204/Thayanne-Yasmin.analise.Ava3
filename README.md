@@ -22,7 +22,7 @@ Região e gênero também influenciam, mas com magnitude significativamente meno
 yasmin-thayanne-state-of-data/
 ├── README.md
 ├── notebook/
-│   └── yasmin-thayanne-analise.ipynb
+│   └── Thayanne-Yasmin-analise.ipynb
 ├── relatorio/
 │   └── yasmin-thayanne-relatorio.pdf
 └── dados/
